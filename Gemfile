@@ -40,3 +40,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "active_model_serializers", "~> 0.10.13"
+gem 'devise'
+gem 'rack-cors'
+gem 'simple_token_authentication'
